@@ -5,14 +5,14 @@ Flippy is a modern, full-stack ecommerce platform built using the MERN (MongoDB,
 # documentation: 
 https://docs.google.com/document/d/1RhLfHZd1Gw2wzYNcggHD7osK851MX_hIXNidUyz91as/edit?usp=sharing
 
+# 
+https://flippyecommerce.vercel.app
+
 ## Features
 
-- **User Authentication**: Register, login, and secure user sessions.
 - **Product Listing**: Display a list of products with details like price, description, and images.
 - **Product Filtering**: Filter products based on category, price, or search term.
 - **Shopping Cart**: Add products to the cart, update quantities, and remove items.
-- **Checkout**: Complete purchases with a basic checkout process.
-- **Admin Panel**: Manage products, users, and orders (Admin only).
 - **Responsive Design**: Optimized for both desktop and mobile views.
 
 ## Technologies Used
@@ -22,7 +22,7 @@ https://docs.google.com/document/d/1RhLfHZd1Gw2wzYNcggHD7osK851MX_hIXNidUyz91as/
   - React Router for navigation
   - Redux for state management
   - Axios for HTTP requests
-  - Material-UI or Bootstrap for UI components
+  - daisy-UI or Tailwind-css for UI components
 
 - **Backend**:
   - Node.js with Express.js
@@ -32,6 +32,4 @@ https://docs.google.com/document/d/1RhLfHZd1Gw2wzYNcggHD7osK851MX_hIXNidUyz91as/
 
 - **Other Tools**:
   - dotenv for environment variable management
-  - MongoDB Atlas (or a local MongoDB instance)
-
-
+  - MongoDB Atlas
