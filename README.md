@@ -5,8 +5,15 @@ Flippy is a modern, full-stack ecommerce platform built using the MERN (MongoDB,
 # documentation: 
 https://docs.google.com/document/d/1RhLfHZd1Gw2wzYNcggHD7osK851MX_hIXNidUyz91as/edit?usp=sharing
 
-# 
-https://flippyecommerce.vercel.app
+## Live Demo
+
+Experience the live version of the Portfolio Website here: [Live Demo](https://flippyecommerce.vercel.app)
+
+## Screenshots
+
+### Home Page
+![Flippy Website Screenshot] ![Screenshot (7)](https://github.com/user-attachments/assets/1ef8589e-eda7-4274-bbf2-5cd7d83aed1e)
+
 
 ## Features
 
